@@ -24,9 +24,9 @@ M.Sc. Computer Science (Machine Learning specialisation), 8.5 CGPA
 - **Loan Document Analyst:** a LangGraph agent with MCP tools and human approval, built around IFRS 9 credit-risk staging
 
 ### 🛠️ Tools I work with
-**AI / LLM:** LangChain · LangGraph · RAG · FAISS · Groq · OpenAI · Gemini · Pydantic
-**ML / data:** Python · pandas · NumPy · scikit-learn · NLTK · SQL · Matplotlib · Seaborn · Plotly
-**Apps:** Streamlit · Git / GitHub
+**AI / LLM:** LangChain · LangGraph · RAG · FAISS · Groq · OpenAI · Gemini · Pydantic  
+**ML / data:** Python · pandas · NumPy · scikit-learn · NLTK · SQL · Matplotlib · Seaborn · Plotly  
+**Apps:** Streamlit · Git / GitHub  
 **Domain:** Banking regulatory reporting (IFRS 9 / ECL) · SAS
 
 ### 📫 Connect
