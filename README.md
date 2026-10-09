@@ -29,4 +29,5 @@ M.Sc. Computer Science (Machine Learning specialisation), 8.5 CGPA
 **Apps:** Streamlit · Git / GitHub
 **Domain:** Banking regulatory reporting (IFRS 9 / ECL) · SAS
 
-<!-- LinkedIn link goes here once added -->
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nidhi--mehta14-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-mehta14) · Open to **AI Engineer / GenAI Engineer / ML Engineer** roles in Mumbai, Pune or remote
