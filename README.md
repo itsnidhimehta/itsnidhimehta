@@ -1,6 +1,6 @@
 ## Hi, I'm Nidhi 👋
 
-**AI / GenAI Engineer** based in Mumbai. I build RAG systems and LangGraph agents and deploy them as live apps. Before that I spent 3.8 years at **Accenture** on regulatory reporting (IFRS 9 / ECL) for UK and European banks.
+**AI / GenAI Engineer** based in Mumbai. I build RAG systems and LangGraph agents and deploy them as live apps.
 
 M.Sc. Computer Science (Machine Learning specialisation), 8.5 CGPA
 
